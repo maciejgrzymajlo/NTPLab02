@@ -1,0 +1,16 @@
+# MLflow
+mlruns/
+mlflow.db
+*.db
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.iml
